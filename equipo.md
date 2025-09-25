@@ -1,1 +1,2 @@
-"la simplicidad es la m xima simplificaci¢n" 
+"la simplicidad es la mÂ xima simplificaciÂ¢n" 
+
