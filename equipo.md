@@ -1,1 +1,2 @@
-" la simplicidad a la m xima sofisticaci¢n paula" 
+"la simplicidad es la mÂ xima simplificaciÂ¢n" 
+
